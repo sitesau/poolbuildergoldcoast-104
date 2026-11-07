@@ -1,0 +1,22 @@
+{
+  "wheel_id": 835,
+  "structure": "umbrella",
+  "slug": "poolbuildergoldcoast-104",
+  "project": "concrete-pool-builder-gold-coast-what-to-expect-2067c1f92f3ebd1",
+  "parent_t1_ref": "poolbuildergoldcoast-151",
+  "node_role": "feeder",
+  "money_target": "poolbuildergoldcoast.net.au",
+  "primary_kw": "concrete pool builder gold coast what to expect",
+  "intended_url": "http://concrete-pool-builder-gold-coast-what-to-expect-2067c1f92f3ebd1.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "704f70577ac08999",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/concrete-pool-builder-gold-coast-checklist-1a099279a5da3cb6c54b/",
+      "anchor": "this concrete pool builder gold coast checklist guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
